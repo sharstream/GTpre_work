@@ -6,6 +6,44 @@ h1 {
     color: green
 }
 
-p {
+.para1 {
     color: red
+}
+
+.para2 {
+    color: blue
+}
+
+.para3 {
+    color: green
+}
+
+.tiny{
+    font-size: 8px
+}
+
+.bold{
+    font-weight: bold
+}
+
+.orange {
+    color: orange;
+    font-size: 28px
+}
+
+.styledImage {
+    border-style: dotted solid;
+    border: 10px solid orange;
+}
+
+.text_center {
+    text-align: center
+}
+
+.box{
+    font-size: 13px
+}
+
+.bigger {
+    width: 500px;
 }
