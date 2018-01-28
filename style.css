@@ -2,7 +2,7 @@ h1 {
     text-align: center
 }
 
-.styledFont {
+.panel-heading {
     color: green
 }
 
@@ -10,8 +10,9 @@ h1 {
     color: red
 }
 
-.para2 {
-    color: blue
+.bio {
+    color: blue;
+    font-size: 18px
 }
 
 .para3 {
@@ -34,7 +35,6 @@ h1 {
 .styledImage {
     border-style: dotted solid;
     border: 10px solid orange;
-    background-color: #3399ff
 }
 
 .text_center {
